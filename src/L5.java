@@ -36,6 +36,7 @@ public class L5 {
         System.out.println(4 + 17 % 2 -1);
         System.out.println(4 + 5 * 2 / 2 + 1);
         System.out.println(4 * (6 + 3 * 2) + 7);
+        System.out.println();
     }
 
 }
